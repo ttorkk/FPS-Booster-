@@ -9,7 +9,11 @@
 ##### I recommend to enable Game Mode in Settings, it will make FPS more stable and better.
 
 #### 📌 If you have problems or encounter problems, you can contact Discord : SmurfsCC#3898
-
+  
+  ### <p align="middle"> Best ISO For Gameings [Download](https://www.mediafire.com/file/d9vzzf80t3ax97g/ggos-0.8.12-968f4b362a48e2d48d8fe07897030a65b9dfe914.iso/file)
+    
+    Then use Rufus to install the ISO onto USB, adjust Legacy to UEFI, the rest is the same.
+  
 
 ***
 
