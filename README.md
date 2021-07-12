@@ -57,7 +57,7 @@
 |:-----:|:-------------------:|:-----:|:----:|:-----------------:|:--------------:|
 | Calypto  | Calypto’s Latency Guide  | Latency |  x64 |Home / Pro|[Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)|
 | Danske's | Danske's Guide | Tweaks |  x64 |Home / Pro|[Danske's](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)|
-| n1kobg  | Gaming Performance / System Optimization / Useful Tweaks     | BoosterFPS |  x64 |Home / Pro|[n1kobg](http://n1kobg.blogspot.com/)|
+| n1kobg  | Gaming Performance / System Optimization  | BoosterFPS |  x64 |Home / Pro|[n1kobg](http://n1kobg.blogspot.com/)|
 | Bored's  | Bored's PC Optimization| Optimization |  x64 |Home / Pro    |[Bored's](https://github.com/BoringBoredom/PC-Optimization-Hub)|
   
 ***
