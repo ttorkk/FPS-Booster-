@@ -1,6 +1,8 @@
 ## <p align="middle"> Windows 10 FPS Booster 
 
 ### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/SmurfsCC/FPS-Booster-/releases/tag/Windows)
+  
+  ##### <p align="middle"> Everything I leave all credit to who made it. I didn't steal him. 💡
 
 ##### Hello, this is the scripts I use to customize after windows install, it makes game play smoothly.
 
