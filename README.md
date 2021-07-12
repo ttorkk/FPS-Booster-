@@ -27,7 +27,7 @@
 ###### 11 - Regedit FPS (You can right click and Edit to see what adjustments are made. But it will increase your FPS +200 a lot)
 ###### 12 - Activate Windows 10
 ###### 13 - Tweakcentral.net (can follow the owner [Tweakcentral](https://tweakcentral.net/))
-###### 14 - QuickBooster ( Follow Owner [SanGraphic](https://github.com/SanGraphic) )
+###### 14 - QuickBooster By. SanGraphic Follow Owner [SanGraphic](https://github.com/SanGraphic) )
 ###### 15 - Disable Defender (permanently disabled)
 ###### 16 - BAT Tweaks FPS (Booster FPS)
 ###### 17 - Remove Google Chrome Managed By Your Organisation 
