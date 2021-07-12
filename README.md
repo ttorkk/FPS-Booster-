@@ -49,4 +49,23 @@
 ##### <p align="middle"> ❌ Regedit which one is used and it shows red. Let you use it through PowerRUN / Nsudo.
 
 ***
+  
+###### <p align="middle"> Google Docs Advance Twaeks Wnidows 10 Guild 
+  
+  
+|Owner|    Sheet name   | Guide | Support |      Editions     | Click here |
+|:-----:|:-------------------:|:-----:|:----:|:-----------------:|:--------------:|
+| Calypto  | Calypto’s Latency Guide  | Latency |  x64 |Home / Pro|[Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)|
+| Danske's | Danske's Guide | Tweaks |  x64 |Home / Pro|[Danske's](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)|
+| n1kobg  | Gaming Performance / System Optimization / Useful Tweaks     | BoosterFPS |  x64 |Home / Pro|[n1kobg](http://n1kobg.blogspot.com/)|
+| Bored's  | Bored's PC Optimization| Optimization |  x64 |Home / Pro    |[Bored's](https://github.com/BoringBoredom/PC-Optimization-Hub)|
+  
+***
+  
+ #### <p align="middle"> [AMD Debloat Driver + Booster FPS](https://docs.google.com/document/d/1Vd5WKWhm77sG8o9xBoSNRuAWRTavLqynJ7aQhVrsa8Y/edit#heading=h.64v6f9pb21bn)
+ #### <p align="middle"> [Nvdia Booster FPS + Debloat](https://discord.gg/MVRdECQAPJ)
+   
+ ***
+   
+   
 
