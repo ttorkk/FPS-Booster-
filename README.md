@@ -1,6 +1,6 @@
 ## <p align="middle"> Windows 10 FPS Booster 
 
-#### DOWNLOAD : [Click Here](https://github.com/SmurfsCC/FPS-Booster-/releases/tag/Windows) 🎈
+### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/SmurfsCC/FPS-Booster-/releases/tag/Windows)
 
 ##### Hello, this is the scripts I use to customize after windows install, it makes game play smoothly.
 
@@ -42,11 +42,11 @@
 ***
 
 
-##### ❌ No Support Windows 10 21H1 - 21H2 , Windows 11 , Windows 8.1 , Windows 7 
-##### ❌ It will delete the Windows Store. If you are using the Windows Store, do not use folder 1.
-##### ❌ If you're using Xbox, don't use Folder 13.
-##### ❌ Every Scripts should be studied before use.
-##### ❌ Regedit which one is used and it shows red. Let you use it through PowerRUN / Nsudo.
+##### <p align="middle"> ❌ No Support Windows 10 21H1 - 21H2 , Windows 11 , Windows 8.1 , Windows 7 
+##### <p align="middle"> ❌ It will delete the Windows Store. If you are using the Windows Store, do not use folder 1.
+##### <p align="middle"> ❌ If you're using Xbox, don't use Folder 13.
+##### <p align="middle"> ❌ Every Scripts should be studied before use.
+##### <p align="middle"> ❌ Regedit which one is used and it shows red. Let you use it through PowerRUN / Nsudo.
 
 ***
 
